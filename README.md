@@ -14,7 +14,7 @@ Comparison: Side-by-side comparison of COVID-19 data across countries or region.
 
 # Requrirements
 The COVID-19 Analysis Shiny App requires R version 4.0.0+ .
-packages like Shiny, dplyr, ggplot2, plotly, leaflet, and DT for interactive features, data manipulation, and visualization.
+packages like Shiny, dplyr, ggplot2, plotly, leaflet, and DT for interactive features.
 For deployment, use RStudio and platforms like shinyapps.io or Shiny Server.
 
 # Installation
