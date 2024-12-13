@@ -16,7 +16,7 @@ The data used in this app is sourced from [Our World in Data](https://ourworldin
 The **COVID-19 Interactive Analysis Shiny App** requires:
 - **R version 4.0.0+**
 - R packages:
-  - `shiny` - `dplyr` - `ggplot2`- `plotly` - `leaflet`  - `DT`  - `lubridate` - `shinythemes` - `tidyr` - `httr`  - `forecast`
+  - `shiny` ,`dplyr` ,`ggplot2`,`plotly` , `leaflet`  , `DT`  , `lubridate` ,`shinythemes` ,`tidyr` , `httr`  , `forecast`
 
 For deployment, use **RStudio** and platforms like **shinyapps.io** or **Shiny Server**.
 
