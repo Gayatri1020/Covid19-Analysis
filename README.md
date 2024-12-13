@@ -22,6 +22,9 @@ For deployment, use **RStudio** and platforms like **shinyapps.io** or **Shiny S
 
 ## Installation
 1. **Install R**: Download and install R from [CRAN](https://cran.r-project.org/).
-2. **Install Required Packages**: Run the following command in R:
+2. **Install Required Packages**:
    ```r
    install.packages(c("shiny", "dplyr", "ggplot2", "plotly", "leaflet", "DT", "lubridate", "shinythemes", "tidyr", "httr", "forecast"))
+3. **Run the following command in R**:
+   ```r
+   shiny::runApp("path_to_your_app_directory")
